@@ -1,4 +1,4 @@
-package me.ssu.java8.lambdafunction;
+package me.ssu.java8._1.lambdafunction;
 
 /**
  * 추상 클래스(일반 메소드 추상 메소드 둘 다 사용 가능)

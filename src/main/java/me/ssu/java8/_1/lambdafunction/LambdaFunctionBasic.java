@@ -1,4 +1,4 @@
-package me.ssu.java8.lambdafunction;
+package me.ssu.java8._1.lambdafunction;
 
 public class LambdaFunctionBasic {
 

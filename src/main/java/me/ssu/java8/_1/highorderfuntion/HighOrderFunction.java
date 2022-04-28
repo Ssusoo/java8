@@ -1,4 +1,4 @@
-package me.ssu.java8.highorderfuntion;
+package me.ssu.java8._1.highorderfuntion;
 
 /**
  * 고차 함수(High-Order-Function)
